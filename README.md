@@ -5,10 +5,13 @@
 Nama : Dzaki Surtika Nugraha
 Kelas : XII-RPL 1
 Absen : 15
-
+---
 
 Screenshot Intent3 :
-Home : ![Intent3_Screenshot1](https://dzagraha.files.wordpress.com/2016/10/intent3_home.png?w=300)
+---
+Home : 
+---
+![Intent3_Screenshot1](https://dzagraha.files.wordpress.com/2016/10/intent3_home.png?w=300)
 
 Message :
 ![Intent3_Screenshot2](https://dzagraha.files.wordpress.com/2016/10/intent3_pesan.png?w=200)
